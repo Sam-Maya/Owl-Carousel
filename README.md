@@ -1,0 +1,1 @@
+responsive randomized infinite owl carousel
